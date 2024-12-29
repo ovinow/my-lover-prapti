@@ -1,0 +1,40 @@
+/* সাইটের বেসিক স্টাইল */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #FF69B4;  /* প্রাপ্তির জন্য পিঙ্ক রং */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #FF4500;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #D14F26;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
